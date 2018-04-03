@@ -4,12 +4,11 @@ Build Node.js RESTful Api in 10 mins
 
 clone the project
 
-Installations
+--Installations---
 
 npm install
 
 
-Run
+--Run --
 
 npm run start
-:)
